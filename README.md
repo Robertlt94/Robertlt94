@@ -25,14 +25,18 @@
     💁‍♂️ Pronouns: he/him
     🧠 Unemployed - Open to work
     Working On: Commiting more often! 🦾
-    I want to learn: 
+    
   </ul>
   
 </div>
 
 <!------------------------------------------------------ Coding Gif ------------------------------------------------------>
 
+<div align='center'>
+  
+  ![CodingAtDesk](https://github.com/Robertlt94/Robertlt94/blob/main/CodingAtDesk.gif)
 
+</div>
 
 <!------------------------------------------------------ Want2Learn ------------------------------------------------------>
 
@@ -128,3 +132,12 @@
 </p>
 
 <!------------------------------------------------------ Outro ------------------------------------------------------>
+
+<div align='center'>
+  
+![CoolCoder](https://github.com/Robertlt94/Robertlt94/blob/main/Cool-coding.gif)
+
+<h3>Thanks for making it this far!</h3>
+<h1>Have a great day!</h1>
+  
+</div>
