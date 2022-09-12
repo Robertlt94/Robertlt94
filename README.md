@@ -2,7 +2,7 @@
 
 <h1 align='center'>📡 Nyob Zoo, Hello, and Welcome to Robert's Github ✨</h1>
 
-<h4 align='center'>👋  In Hmong, Nyob Zoo, pronounced nyaw-zhong, literal translation means "live well", which is the equivalent of saying "Hello!" 👋</h4>
+<h4 align='center'>👋 Nyob Zoo, pronounced nyaw-zhong, literally translates to "live well", which is the equivalent of saying "Hello" in Hmong. 👋</h4>
 <h4 align='center'>I'm glad that you are here 🤓 , please enjoy your visit!</h4>
 
 <!------------------------------------------------------ Connects ------------------------------------------------------>
