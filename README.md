@@ -1,6 +1,4 @@
 <!------------------------------------------------------ Quick Intro ------------------------------------------------------>
-#top
-
 
 <h1 align='center'>📡 Nyob Zoo, Hello, and Welcome to Robert's Github ✨</h1>
 
@@ -8,6 +6,7 @@
 <h4 align='center'>I'm glad that you are here 🤓 , please enjoy your visit!</h4>
 
 <!------------------------------------------------------ Connects ------------------------------------------------------>
+
 <h3 align='center'>Let's Network!</h3>
 <div align='center'>
 
@@ -17,19 +16,12 @@
 
 </div>
 
-<!------------------------------------------------------ Anchors ------------------------------------------------------>
-<h3 align='center'>Looking for something specific?</h3>
-<div align='center'
-     
-[Facts About Me](#personal) 
-[Technologies](#tech-stack) 
-[Projects](#projects)
-     
-</div>
+<!------------------------------------------------------ Anchors (currently removed) ------------------------------------------------------>
+
 <!------------------------------------------------------ Personal ------------------------------------------------------>
-<a name='personal'></a>
 
 <h3 align='center'>Fast Facts:</h3>
+
 <div align='center'>
   <p>I'm a Bboy! 💥 I've been Breaking/Breakdancing since I was in High School.</p>
   <p> 💁‍♂️ Pronouns: he/him</p>
@@ -61,6 +53,7 @@
 </div>
 
 <!------------------------------------------------------ Fun Stats ------------------------------------------------------>
+
 <h3 align='center'>Git Stats</h3>
 <div align='center'>
   
@@ -70,9 +63,9 @@
 <a href=''>![GitHubBadges](https://github-profile-trophy.vercel.app/?username=Robertlt94)</a>
 
 </div>
+
 <!------------------------------------------------------ Tech Stack ------------------------------------------------------>
 
-<a name='techstack'></a>
 <h3 align='center'>My Tech Stack</h3>
 
 <!--------------------------------- Frontend --------------------------------->
@@ -144,7 +137,6 @@
 </p>
 
 <!------------------------------------------------------ Favorites ------------------------------------------------------>
-<a name='projects'></a>
 
 <h3 align='center'>I enjoyed working on these projects the most:</h3>
 
@@ -164,7 +156,6 @@
 ![CoolCoder](https://github.com/Robertlt94/Robertlt94/blob/main/Cool-coding.gif)
 
 <h3>Thanks for making it this far!</h3>
-[Would you like to return to the top?](#top)
-<h1>I hope you had an code-tastic time!</h1>
+<h1>I hope you had a code-tastic time!</h1>
   
 </div>
