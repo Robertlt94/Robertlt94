@@ -1,4 +1,6 @@
 <!------------------------------------------------------ Quick Intro ------------------------------------------------------>
+#top
+
 
 <h1 align='center'>📡 Nyob Zoo, Hello, and Welcome to Robert's Github ✨</h1>
 
@@ -6,7 +8,7 @@
 <h4 align='center'>I'm glad that you are here 🤓 , please enjoy your visit!</h4>
 
 <!------------------------------------------------------ Connects ------------------------------------------------------>
-
+<h3 align='center'>Let's Network!</h3>
 <div align='center'>
 
 <a href=''>[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Robertlt94)</a>
@@ -15,18 +17,24 @@
 
 </div>
 
+<!------------------------------------------------------ Anchors ------------------------------------------------------>
+<h3 align='center'>Looking for something specific?</h3>
+<div align='center'
+     
+[Facts About Me](#personal) 
+[Technologies](#tech-stack) 
+[Projects](#projects)
+     
+</div>
 <!------------------------------------------------------ Personal ------------------------------------------------------>
+<a name='personal'></a>
 
+<h3 align='center'>Fast Facts:</h3>
 <div align='center'>
-  <h6>FAST FACTS:</h6>
-  <ul>
-  
-    I'm a Bboy! 💥 I've been Breaking/Breakdancing since I was in High School.
-    💁‍♂️ Pronouns: he/him
-    🧠 Unemployed - Open to work
-    Working On: Commiting more often! 🦾
-    
-  </ul>
+  <p>I'm a Bboy! 💥 I've been Breaking/Breakdancing since I was in High School.</p>
+  <p> 💁‍♂️ Pronouns: he/him</p>
+  <p> 🧠 Unemployed - Open to work</p>
+  <p>Working On: Commiting more often! 🦾</p>
   
 </div>
 
@@ -41,7 +49,7 @@
 <!------------------------------------------------------ Want2Learn ------------------------------------------------------>
 
 <div align='center'>
-  <h5>Interested in learning</h5>
+  <h3>Interested in learning</h3>
   <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white" height="22px"/>
@@ -53,16 +61,20 @@
 </div>
 
 <!------------------------------------------------------ Fun Stats ------------------------------------------------------>
-
+<h3 align='center'>Git Stats</h3>
 <div align='center'>
-
+  
 <a href=''>![ProfileHits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRobertlt941212%2Fhits-counter)</a><br>
+<a href=''>![LastCommit](https://img.shields.io/github/last-commit/Robertlt94/Robertlt94)</a><br>
 <a href=''>![GitHubStats](https://github-readme-streak-stats.herokuapp.com/?user=Robertlt94)</a>
 <a href=''>![GitHubBadges](https://github-profile-trophy.vercel.app/?username=Robertlt94)</a>
 
 </div>
-
 <!------------------------------------------------------ Tech Stack ------------------------------------------------------>
+
+<a name='techstack'></a>
+<h3 align='center'>My Tech Stack</h3>
+
 <!--------------------------------- Frontend --------------------------------->
 
 <h5 align="center">Frontend</h4>
@@ -131,6 +143,20 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="22px"/>
 </p>
 
+<!------------------------------------------------------ Favorites ------------------------------------------------------>
+<a name='projects'></a>
+
+<h3 align='center'>I enjoyed working on these projects the most:</h3>
+
+<div align='center'>
+  
+<a href=''>[![FirstSubmittedCode](https://github.com/Robertlt94/Robertlt94/blob/main/FirstSubmittedCode.gif)](https://github.com/Robertlt94/Robertlt94.github.io)</a>
+<a href=''>[![PrimeAcademyGroupProject](https://github.com/Robertlt94/Robertlt94/blob/main/GroupProject-PoliceConduct.gif)](https://police-conduct.herokuapp.com/#/login)</a>
+<!--------- <a href=''>[![Name](Link)](Redirect)</a>
+<a href=''>[![Name](Link)](Redirect)</a> ---------->
+
+</div>
+
 <!------------------------------------------------------ Outro ------------------------------------------------------>
 
 <div align='center'>
@@ -138,6 +164,7 @@
 ![CoolCoder](https://github.com/Robertlt94/Robertlt94/blob/main/Cool-coding.gif)
 
 <h3>Thanks for making it this far!</h3>
-<h1>Have a great day!</h1>
+[Would you like to return to the top?](#top)
+<h1>I hope you had an code-tastic time!</h1>
   
 </div>
