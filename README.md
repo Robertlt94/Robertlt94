@@ -25,7 +25,7 @@
 <div align='center'>
   <p>I'm a Bboy! 💥 I've been Breaking/Breakdancing since I was in High School.</p>
   <p> 💁‍♂️ Pronouns: he/him</p>
-  <p> 🧠 Unemployed - Open to work</p>
+  <p> 🧠 Open to work</p>
   <p>Working On: Commiting more often! 🦾</p>
   
 </div>
