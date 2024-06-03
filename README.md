@@ -1,18 +1,25 @@
 <!------------------------------------------------------ Quick Intro ------------------------------------------------------>
 
-<h1 align='center'>📡 Nyob Zoo, Hello, and Welcome to Robert's Github ✨</h1>
+<h1>📡 Hello and Welcome to my GitHub! ✨</h1>
 
-<h4 align='center'>👋 Nyob Zoo, pronounced nyaw-zhong, literally translates to "live well", which is the equivalent of saying "Hello" in Hmong. 👋</h4>
-<h4 align='center'>I'm glad that you are here 🤓 , please enjoy your visit!</h4>
+<h2>👋 My name is Robert! 👋</h2>
+<p>I am a teacher, library clerk, and auto technician turned Software Engineer.</p>
+<p></p>
+
+<h3>Meaningful Papyrus Obtained (Certifications) - related to tech:</h3>
+<ul>
+  <li>Front-End Development Certificate from Hack The Gap (Saint Paul, Minnesota)</li>
+  <li>Meta's Frontend Web Developer Certificate from Coursera (Online Certification)</li>
+  <li>Full-Stack Software Engineering Certificate from Prime Digital Academy (Minneapolis, Minnesota)</li>
+</ul>
 
 <!------------------------------------------------------ Connects ------------------------------------------------------>
 
-<h3 align='center'>Let's Network!</h3>
-<div align='center'>
+<div>
+<h3>Looking to Network? Sure!</h3>
 
 <a href=''>[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Robertlt94)</a>
 <a href=''>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertlt/)</a>
-<a href=''>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlthao94@gmail.com)</a>
 
 </div>
 
@@ -20,7 +27,7 @@
 
 <!------------------------------------------------------ Personal ------------------------------------------------------>
 
-<h3 align='center'>Fast Facts:</h3>
+<!-- <h3 align='center'>Fast Facts:</h3>
 
 <div align='center'>
   <p>I'm a Bboy! 💥 I've been Breaking/Breakdancing since I was in High School.</p>
@@ -28,20 +35,20 @@
   <p> 🧠 Open to work</p>
   <p>Working On: Commiting more often! 🦾</p>
   
-</div>
+</div> -->
 
 <!------------------------------------------------------ Coding Gif ------------------------------------------------------>
 
-<div align='center'>
+<!-- <div align='center'>
   
   ![CodingAtDesk](https://github.com/Robertlt94/Robertlt94/blob/main/CodingAtDesk.gif)
 
-</div>
+</div> -->
 
 <!------------------------------------------------------ Want2Learn ------------------------------------------------------>
 
-<div align='center'>
-  <h3>Interested in learning</h3>
+<div>
+  <h3>I Am Interested In learning:</h3>
   <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white" height="22px"/>
@@ -54,7 +61,7 @@
 
 <!------------------------------------------------------ Fun Stats ------------------------------------------------------>
 
-<h3 align='center'>Git Stats</h3>
+<!-- <h3 align='center'>Git Stats</h3>
 <div align='center'>
   
 <a href=''>![ProfileHits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRobertlt941212%2Fhits-counter)</a><br>
@@ -62,16 +69,16 @@
 <a href=''>![GitHubStats](https://github-readme-streak-stats.herokuapp.com/?user=Robertlt94)</a>
 <a href=''>![GitHubBadges](https://github-profile-trophy.vercel.app/?username=Robertlt94)</a>
 
-</div>
+</div> -->
 
 <!------------------------------------------------------ Tech Stack ------------------------------------------------------>
 
-<h3 align='center'>My Tech Stack</h3>
+<h3>The Toolbelt (Tech Stack):</h3>
 
 <!--------------------------------- Frontend --------------------------------->
 
-<h5 align="center">Frontend</h4>
-<p align="center">
+<h4>Frontend</h4>
+<p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" height="22px"/>
     <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" height="22px"/>
     <img src="https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white" height="22px"/>
@@ -84,8 +91,8 @@
 
 <!--------------------------------- Backend --------------------------------->
 
-<h5 align="center">Backend</h4>
-<p align="center">
+<h4>Backend</h4>
+<p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" height="22px"/>
@@ -94,8 +101,8 @@
 
 <!--------------------------------- Development --------------------------------->
 
-<h5 align="center">Development</h4>
-<p align="center">
+<h5>Development</h4>
+<p>
     <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white" height="22px"/>
@@ -110,8 +117,8 @@
 
 <!--------------------------------- Professional --------------------------------->
 
-<h5 align="center">Professional</h4>
-<p align="center">
+<h5>Professional</h4>
+<p>
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white" height="22px"/>
@@ -122,40 +129,37 @@
 
 <!--------------------------------- Design --------------------------------->
 
-<h5 align="center">Design</h4>
-<p align="center">
+<h5>Design</h4>
+<p>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Figma-F22E1E?style=plastic&logo=figma&logoColor=white" height="22px"/>
 </p>
 
 <!--------------------------------- Operating Systems --------------------------------->
 
-<h5 align="center">Operating Systems</h4>
-<p align="center">
+<h5>Operating Systems</h4>
+<p>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="22px"/>
 </p>
 
 <!------------------------------------------------------ Favorites ------------------------------------------------------>
 
-<h3 align='center'>I enjoyed working on these projects the most:</h3>
+<!-- <h3 align='center'>I enjoyed working on these projects the most:</h3>
 
 <div align='center'>
   
 <a href=''>[![FirstSubmittedCode](https://github.com/Robertlt94/Robertlt94/blob/main/FirstSubmittedCode.gif)](https://github.com/Robertlt94/Robertlt94.github.io)</a>
 <a href=''>[![PrimeAcademyGroupProject](https://github.com/Robertlt94/Robertlt94/blob/main/GroupProject-PoliceConduct.gif)](https://police-conduct.herokuapp.com/#/login)</a>
-<!--------- <a href=''>[![Name](Link)](Redirect)</a>
-<a href=''>[![Name](Link)](Redirect)</a> ---------->
+<a href=''>[![Name](Link)](Redirect)</a>
+<a href=''>[![Name](Link)](Redirect)</a>
 
-</div>
+</div> -->
 
 <!------------------------------------------------------ Outro ------------------------------------------------------>
 
-<div align='center'>
+<!-- <div align='center'>
   
 ![CoolCoder](https://github.com/Robertlt94/Robertlt94/blob/main/Cool-coding.gif)
-
-<h3>Thanks for making it this far!</h3>
-<h1>I hope you had a code-tastic time!</h1>
   
-</div>
+</div> -->
