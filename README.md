@@ -4,7 +4,8 @@
 
 <h2>👋 My name is Robert! 👋</h2>
 <p>I am a teacher, library clerk, and auto technician turned Software Engineer.</p>
-<p></p>
+<h3>Fun Fact:</h3>
+<p>I breakdance, enjoy event planning, and volunteering for various causes!</p>
 
 <h3>Meaningful Papyrus Obtained (Certifications) - related to tech:</h3>
 <ul>
