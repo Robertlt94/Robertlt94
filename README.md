@@ -3,11 +3,13 @@
 <h1>📡 Hello and Welcome to my GitHub! ✨</h1>
 
 <h2>👋 My name is Robert! 👋</h2>
-<p>I am a teacher, library clerk, and auto technician turned Software Engineer.</p>
+<p>Software Engineer, Computer Science Student, and Project Manager</p>
 <h3>Fun Fact:</h3>
 <p>I breakdance, enjoy event planning, and volunteering for various causes!</p>
 
-<h3>Meaningful Papyrus Obtained (Certifications) - related to tech:</h3>
+<h3>Interested in checking out my portfolio? <a href="https://robertlt94.github.io/">Click Here!</a></h3>
+
+<h3>Degrees & Certifications:</h3>
 <ul>
   <li>Front-End Development Certificate from Hack The Gap (Saint Paul, Minnesota)</li>
   <li>Meta's Frontend Web Developer Certificate from Coursera (Online Certification)</li>
@@ -145,8 +147,6 @@
 </p>
 
 <!------------------------------------------------------ Favorites ------------------------------------------------------>
-
-<a href="https://robertlt94.github.io/">Check out my portfolio!</a>
 
 <!-- <h3 align='center'>I enjoyed working on these projects the most:</h3>
 
