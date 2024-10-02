@@ -146,6 +146,8 @@
 
 <!------------------------------------------------------ Favorites ------------------------------------------------------>
 
+<a href="https://robertlt94.github.io/">Check out my portfolio!</a>
+
 <!-- <h3 align='center'>I enjoyed working on these projects the most:</h3>
 
 <div align='center'>
